@@ -3,7 +3,7 @@
     padding: 0;
 }
 .header_container{
-    background-color: #1a1a1a;
+    background-color: #046645;
     display: flex;
     gap: 10px;
     align-items: center;
@@ -88,7 +88,7 @@
     padding: 10px;
 }
 .language select{
-    background-color: #1a1a1a;
+    background-color: #046645;
     border: none;
     color: white;
 }
@@ -103,7 +103,7 @@
     font-weight: bold;
     top: -6px;
     font-size: 20px;
-    background-color: #1a1a1a;
+    background-color: #046645;
     left: 14px;
     color: orange;
 }
@@ -115,7 +115,7 @@
     border-radius: 3px;
 }
 .lower_container{
-    background-color: #232f3e;
+    background-color: #003D31;
     color: white;
 }
 .lower_container ul {

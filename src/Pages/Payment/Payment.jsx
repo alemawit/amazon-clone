@@ -103,8 +103,8 @@ function Payment() {
           <h3>Delivery Address</h3>
           <div>
             <div>{user?.email}</div>
-            <div>123 React Lane</div>
-            <div>Chicago,IL</div>
+            <div>Matthew</div>
+            <div>Charlotte,NC</div>
           </div>
         </div>
         <hr />

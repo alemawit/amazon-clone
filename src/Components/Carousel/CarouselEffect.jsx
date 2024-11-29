@@ -14,7 +14,7 @@ const CarouselEffect = () => {
         showIndicators={false}
         showThumbs={false}
         interval={2000} // Change slides every 5 seconds
-      >
+       className={classes.image}>
         {img.map((imageItemLink, index) => (
           <img src={imageItemLink} alt={`slide-${index}`} key={index} />
         ))}
