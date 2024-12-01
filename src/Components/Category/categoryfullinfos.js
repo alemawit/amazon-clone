@@ -20,7 +20,7 @@ const categoryInfo = [
   {
     id:4,
     title: "Jewelery",
-    name: "jewlery",
+    name: "jewelery",
     imageLink:
       "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
   },

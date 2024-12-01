@@ -32,8 +32,8 @@ const Header = () => {
                   <SlLocationPin />
                 </span>
                 <div>
-                  <p>Delivering </p>
-                  <span>Fort Mill</span>
+                  <p>Delivering to </p>
+                  <span>charlotte,NC</span>
                 </div>
               </div>
             </div>
